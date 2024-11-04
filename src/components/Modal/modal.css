@@ -1,0 +1,29 @@
+.container-todo {
+  padding: 20px;
+}
+.modal {
+  margin-top: 50px;
+  padding: 10px;
+}
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-close {
+  display: block;
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  background: transparent;
+  font-weight: 700;
+  font-size: 20px;
+  color: #0f6843;
+  border: none;
+}
+.close-modal {
+  display: block;
+  width: 30px;
+  height: 30px;
+}
